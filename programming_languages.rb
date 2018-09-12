@@ -1,4 +1,4 @@
-
+ require 'pry'
   # your code here
   def reformat_languages(languages)
   new_hash = {} 
